@@ -2,12 +2,12 @@ import firebase from 'firebase/compat/app';
 import 'firebase/combat/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDcgVcbGhrOCvrINh_CiJ7sxdy2y2erUIY",
-  authDomain: "firstfirebase-57729.firebaseapp.com",
-  projectId: "firstfirebase-57729",
-  storageBucket: "firstfirebase-57729.appspot.com",
-  messagingSenderId: "435394738041",
-  appId: "1:435394738041:web:e7f24d52a898afb65fe1a8"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 
